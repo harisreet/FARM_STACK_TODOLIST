@@ -15,7 +15,6 @@ from dal import ToDoDAL, ListSummary, ToDoList
 
 COLLECTION_NAME = "todo_lists"
 MONGODB_URI = "mongodb+srv://HARISREE:farmstack@cluster0.t5ahsvx.mongodb.net/todo?retryWrites=true&w=majority&appName=Cluster0"
-#MONGODB_URI = os.environ["mongodb+srv://HARISREE:sree3135@cluster0.is1woh5.mongodb.net/todo?retryWrites=true&w=majority&tls=true&appName=Cluster0"]
 DEBUG = os.environ.get("DEBUG", "").strip().lower() in {"1", "true", "on", "yes"}
 
 
