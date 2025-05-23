@@ -26,6 +26,7 @@ A modern full-stack To-Do List app designed to help you organize your tasks effo
 - Python  
 - JavaScript (React)  
 - MongoDB (NoSQL)  
+- Docker
 
 ## 💻 Local Setup Instructions
 
@@ -67,3 +68,4 @@ A modern full-stack To-Do List app designed to help you organize your tasks effo
     ```bash
     docker-compose down --volumes --remove-orphans
     ```
+## Demo Video : [demo](https://drive.google.com/file/d/15AgiJJf2wHoKGqvsX9OeGF6b9gW7inaK/view?usp=drive_link) 
